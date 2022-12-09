@@ -1,0 +1,19 @@
+C:\Users\anuja\Downloads\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin
+\
+
+
+
+Git is a source version control tool. Git is used to track all the changes ( addition, modification, deletion) by developers.
+
+Git is used to push the changes from local system to remote repository
+
+.Below git command use to push the changes local to remote repo:
+
+Git add -all
+
+.Git commit --m "Hello"
+
+Git push origin master
+
+
+$ git remote add origin https://github.com/rohitlatake7/practice.git
