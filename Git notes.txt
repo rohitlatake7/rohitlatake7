@@ -17,3 +17,8 @@ Git push origin master
 
 
 $ git remote add origin https://github.com/rohitlatake7/practice.git
+
+
+
+Git clone https://github.com/rohitlatake7/rohitlatake7
+
